@@ -10,7 +10,7 @@ Real-time weather updates
 Air Quality Index (AQI) insights with pollutant breakdowns
 
 Dynamic DAX measures for category detection, color formatting, and health advisories
-
+------------------------------------------------------------------------------------------------------------------------------------------------------
 📊 Features
 
 🌡 Temperature Details: Current temperature, weather condition, and city comparison
@@ -34,7 +34,7 @@ DAX → Dynamic AQI logic (categories, color formatting & suggestions)
 Custom Visuals → KPI cards, line charts, gauges, bar charts
 
 CSV/JSON/API Data → Weather & AQI inputs
-
+------------------------------------------------------------------------------------------------------------------------------------------------------
 🚀 Getting Started
 
 Open Power BI Desktop
@@ -50,7 +50,7 @@ AQI Category Detection
 AQI Color Formatting
 
 AQI Suggestion Text
-
+------------------------------------------------------------------------------------------------------------------------------------------------------
 📌 Purpose
 
 To deliver a real-time, data-driven solution that:
@@ -60,7 +60,7 @@ Informs users about current and forecasted weather
 Raises awareness about air quality & health advisories
 
 Supports informed outdoor planning & lifestyle decisions
-
+------------------------------------------------------------------------------------------------------------------------------------------------------
 🧠 Sample DAX Measure (AQI Suggestion)
 
 AQI Suggestion =
@@ -80,8 +80,8 @@ SWITCH(
 
 Screenshort/ Demo
 show what the dashboad looks like
-Exampl:https://github.com/od0602/live-weather-report/blob/main/interactive-weather-dashboard.png
-
+Exampl:https://github.com/od0602/live-weather-report/blob/main/wather%20update.png
+------------------------------------------------------------------------------------------------------------------------------------------------------
 🏷 Tags
 
 #PowerBI #DataVisualization #WeatherDashboard #AQI #DAX #PortfolioProject
