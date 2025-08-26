@@ -1,6 +1,12 @@
-# live-weather-report
 🌦️Weather & Air Quality Dashboard - Power BI
 
+
+
+*Please refresh the dashbord to get updated reportr.*
+
+
+live-weather-report
+------------------------------------------------------------------------------------------------------------------------------------------------------
 This project showcases an interactive and visually appealing Weather & Air Quality Dashboard built with Power BI. It provides:
 
 Real-time weather updates
@@ -10,9 +16,10 @@ Real-time weather updates
 Air Quality Index (AQI) insights with pollutant breakdowns
 
 Dynamic DAX measures for category detection, color formatting, and health advisories
-------------------------------------------------------------------------------------------------------------------------------------------------------
-📊 Features
 
+
+📊 Features
+------------------------------------------------------------------------------------------------------------------------------------------------------
 🌡 Temperature Details: Current temperature, weather condition, and city comparison
 
 📅 7-Day Forecast Chart: Visual line chart showing temperature trends
@@ -34,9 +41,9 @@ DAX → Dynamic AQI logic (categories, color formatting & suggestions)
 Custom Visuals → KPI cards, line charts, gauges, bar charts
 
 CSV/JSON/API Data → Weather & AQI inputs
-------------------------------------------------------------------------------------------------------------------------------------------------------
-🚀 Getting Started
 
+🚀 Getting Started
+------------------------------------------------------------------------------------------------------------------------------------------------------
 Open Power BI Desktop
 
 Load your data source (CSV, API, or sample)
@@ -50,9 +57,9 @@ AQI Category Detection
 AQI Color Formatting
 
 AQI Suggestion Text
-------------------------------------------------------------------------------------------------------------------------------------------------------
-📌 Purpose
 
+📌 Purpose
+------------------------------------------------------------------------------------------------------------------------------------------------------
 To deliver a real-time, data-driven solution that:
 
 Informs users about current and forecasted weather
@@ -60,9 +67,9 @@ Informs users about current and forecasted weather
 Raises awareness about air quality & health advisories
 
 Supports informed outdoor planning & lifestyle decisions
-------------------------------------------------------------------------------------------------------------------------------------------------------
-🧠 Sample DAX Measure (AQI Suggestion)
 
+🧠 Sample DAX Measure (AQI Suggestion)
+------------------------------------------------------------------------------------------------------------------------------------------------------
 AQI Suggestion =
 VAR AQI = SELECTEDVALUE('Current'[Current_AQI])
 RETURN
@@ -79,9 +86,10 @@ SWITCH(
 
 
 Screenshort/ Demo
+------------------------------------------------------------------------------------------------------------------------------------------------------
 show what the dashboad looks like
 Exampl:https://github.com/od0602/live-weather-report/blob/main/wather%20update.png
-------------------------------------------------------------------------------------------------------------------------------------------------------
-🏷 Tags
 
+🏷 Tags
+------------------------------------------------------------------------------------------------------------------------------------------------------
 #PowerBI #DataVisualization #WeatherDashboard #AQI #DAX #PortfolioProject
