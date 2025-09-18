@@ -41,21 +41,6 @@ Custom Visuals → KPI cards, line charts, gauges, bar charts
 
 CSV/JSON/API Data → Weather & AQI inputs
 
-🚀 Getting Started
-------------------------------------------------------------------------------------------------------------------------------------------------------
-Open Power BI Desktop
-
-Load your data source (CSV, API, or sample)
-
-Use the provided layout to build visuals
-
-Add DAX measures for:
-
-AQI Category Detection
-
-AQI Color Formatting
-
-AQI Suggestion Text
 
 📌 Purpose
 ------------------------------------------------------------------------------------------------------------------------------------------------------
