@@ -2,7 +2,6 @@
 
 
 
-*Please refresh the dashbord to get updated reportr.*
 
 
 live-weather-report
