@@ -76,6 +76,9 @@ Exampl:https://github.com/od0602/live-weather-report/blob/main/wather%20update.p
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 To get the latest report, please refresh the dashboard.
+
+
+
 Note: The dashboard currently displays a 3-day weather forecast (instead of 7-day) due to free API subscription limits.
 
 🏷 Tags
